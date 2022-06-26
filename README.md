@@ -3,7 +3,7 @@
 
 ## Startup
 
-At project directory run command (runs on port 8090). Database (SQLLite) will and initial schema will be created after startup automatically.
+At project directory run command (runs on port 8090). Database (SQLite) will and initial schema will be created after startup automatically.
 ```bash
 sbt run
 ```
